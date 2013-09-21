@@ -1,0 +1,64 @@
+body {
+	font-family: 'Aldrich';
+}
+h1 {
+	color: pink;
+	text-align: center;
+}
+table.patientsTable {
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 14pt;
+	padding: 4px 4px 4px 4px;
+}
+
+table.patientsTable th {
+	color: white;
+	background-color: pink;
+	padding: 4px 4px 4px 4px;
+}
+
+table.patientsTable td {
+	color: white;
+	background-color: cornflowerblue;
+	padding: 4px 4px 4px 4px;
+}
+
+table.patientsTable a {
+	color: white;
+}
+span.formTitleSpan {
+	display: inline-block;
+	width: 120px;
+}
+#editFormDiv {
+	font-family: 'Aldrich';
+	font-size: 12pt;
+}
+.formEditField {
+	width: 260px;	
+}
+#btnSubmit {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#footer {
+	font-size: small; 
+	text-align:center;
+}
+pre {
+color:pink;
+}
+td {
+text-align:center;
+background-color:cornflowerblue;
+} 
+caption {
+font-family: 'Aldrich'Verdana, sans-serif;
+ font-weight:bold; font-size:1em;
+  padding-bottom:5px;
+  color:white;
+  background-color:brown;}
+</style>
